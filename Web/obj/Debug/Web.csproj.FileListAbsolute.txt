@@ -1,0 +1,13 @@
+C:\Temp\_felipe\LearnAngularDDD-master\LearnAngular.Web\bin\Web.dll
+C:\Temp\_felipe\LearnAngularDDD-master\LearnAngular.Web\bin\Web.pdb
+C:\Temp\_felipe\LearnAngularDDD-master\LearnAngular.Web\obj\Debug\Web.dll
+C:\Temp\_felipe\LearnAngularDDD-master\LearnAngular.Web\obj\Debug\Web.pdb
+C:\Temp\_felipe\LearnAngularDDD-master\Web\bin\Web.dll
+C:\Temp\_felipe\LearnAngularDDD-master\Web\bin\Web.pdb
+C:\Temp\_felipe\LearnAngularDDD-master\Web\bin\Newtonsoft.Json.dll
+C:\Temp\_felipe\LearnAngularDDD-master\Web\bin\OAuth2.dll
+C:\Temp\_felipe\LearnAngularDDD-master\Web\bin\RestSharp.dll
+C:\Temp\_felipe\LearnAngularDDD-master\Web\bin\Newtonsoft.Json.xml
+C:\Temp\_felipe\LearnAngularDDD-master\Web\bin\RestSharp.xml
+C:\Temp\_felipe\LearnAngularDDD-master\Web\obj\Debug\Web.dll
+C:\Temp\_felipe\LearnAngularDDD-master\Web\obj\Debug\Web.pdb
